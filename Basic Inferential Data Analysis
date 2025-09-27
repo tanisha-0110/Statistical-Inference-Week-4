@@ -1,10 +1,9 @@
 ---
 title: Basic Inferential Data Analysis
 author:
-  - name: JZstats
+  - name: Tanisha Basu
     affiliation: |
-      Course 6: Statistical Inference \
-      Data Science Specialization, Coursera
+       Statistical Inference 
 abstract: |
   Based on the 'ToothGrowth' data by Galton, 
   a comparison was conducted for the effects of Vitamin C 
